@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Firebase Auth</string>
+    <string name="title_activity_main">Firebase Auth</string>
+    <string name="package_name">com.gatsensoft.fbauth</string>
+    <string name="custom_url_scheme">com.gatsensoft.fbauth</string>
+</resources>

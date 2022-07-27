@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607842303571",
+    "project_id": "fbauth-app",
+    "storage_bucket": "fbauth-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607842303571:android:3e7fe344037b75e9efd0a6",
+        "android_client_info": {
+          "package_name": "com.gatsensoft.fbauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607842303571-m3u787jo66tgm7gtdo63g58n1h6j58vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVX7ndrCchkSCyI4lvQGZ7JCnmywwuFOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607842303571-m3u787jo66tgm7gtdo63g58n1h6j58vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

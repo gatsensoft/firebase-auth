@@ -15,7 +15,11 @@
   </ion-header>
 
   <div id="container">
-    <strong class="capitalize">{{ folder }}</strong>
-    <p>Explore <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+    <ion-avatar>
+      <img src="{{ user?.photoUrl }}" />
+    </ion-avatar>
+    <p class="capitalize">{{ user?.displayName }}</p>
+    <p class="capitalize">{{ user?.email }}</p>
+    <ion-button expand="block" (click)="signOut()">Sign Out</ion-button>
   </div>
 </ion-content>
